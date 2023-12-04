@@ -1,4 +1,4 @@
 # Git_Project
 First Git Project
 <br>
-Author - Prasad Nawale
+Author - Prasad Nawale script
